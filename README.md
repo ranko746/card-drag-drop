@@ -1,1 +1,8 @@
-updated at Thu Feb 09 2023 13:02:00 
+# Starting with this command
+yarn dev
+
+# Build
+yarn build
+
+# Deploy
+yarn serve
